@@ -1,0 +1,2 @@
+1617011989 /home/jayhua267/00_Computer_Organization/Wallace_Multiplier/WalMul_tb.v
+1617011956 /home/jayhua267/00_Computer_Organization/Wallace_Multiplier/WallaceBinaryMultiplier.v
